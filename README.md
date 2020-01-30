@@ -14,4 +14,6 @@ I hope you like it and i look forward to some feedback from you.
 
 If i was to improve the system with more time i would change the storage of the price and cost and store them both together inside Checkout, this way i could eliminate one of my data storages and make the memory allocation a lot smaller, I would also explore ways of storing items better as this current method is Items * O(N) as i have to search the scanned items fully for each speciic item which is not the best.
 
+*IMPORTANT* - Managed to get the JUNIT jar working on my new laptop, as you can see i havent edited any of the files in the github repo, i just ran the file i wrote freehand and the test worked sucessfully which is great*
+
 Andrew
