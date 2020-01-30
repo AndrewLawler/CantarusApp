@@ -12,4 +12,6 @@ https://github.com/AndrewLawler/comp_122_as4/tree/master/comp122_assessment_4_20
 
 I hope you like it and i look forward to some feedback from you.
 
+If i was to improve the system with more time i would change the storage of the price and cost and store them both together inside Checkout, this way i could eliminate one of my data storages and make the memory allocation a lot smaller, I would also explore ways of storing items better as this current method is Items * O(N) as i have to search the scanned items fully for each speciic item which is not the best.
+
 Andrew
